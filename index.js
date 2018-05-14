@@ -15,6 +15,7 @@ function iLoveTheBeatles(n) {
   var howMany = [];
   
   do {
-    howMany.push("I love the Beatles!")
-  }
+    howMany.push("I love the Beatles!");
+    n++;
+  }while (n<15);
 }
