@@ -18,4 +18,5 @@ function iLoveTheBeatles(n) {
     howMany.push("I love the Beatles!");
     n++;
   }while (n<15);
+  return howMany;
 }
