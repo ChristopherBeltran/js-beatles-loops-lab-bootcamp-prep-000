@@ -10,3 +10,11 @@ function johnLennonFacts(factArray){
   factArray[i] = factArray[i] + "!!!";
   return factArray;
 }
+
+function iLoveTheBeatles(n) {
+  var howMany = [];
+  
+  do {
+    howMany.push
+  }
+}
